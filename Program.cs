@@ -4,6 +4,10 @@
     {
         static void Main(string[] args)
         {
+            // Vicky Le
+            // 4//11/2024
+            // Programming 120
+
             // Todays Topics
 
             // Call my FloatingPointTypeExample method
